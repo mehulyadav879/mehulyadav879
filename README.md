@@ -44,11 +44,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Mehul's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehulyadav879&show_icons=true&theme=tokyonight)
-
----
 
 ## 🔥 GitHub Streak
 
