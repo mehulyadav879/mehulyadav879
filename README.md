@@ -51,11 +51,6 @@
 
 ---
 
-## 💻 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehulyadav879&layout=compact&theme=tokyonight)
-
----
 
 ## 📫 Connect With Me
 
